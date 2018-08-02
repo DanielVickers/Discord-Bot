@@ -1,0 +1,20 @@
+{
+  "name": "RocketRaids",
+  "version": "0.0.1",
+  "description": "Rocket Raids Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ItsDaVi",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "common-tags": "^1.8.0",
+    "discord.js": "^11.3.2",
+    "moment": "^2.22.2",
+    "ms": "^2.1.1",
+    "nodemon": "^1.17.5",
+    "sqlite": "^2.9.2"
+  }
+}
